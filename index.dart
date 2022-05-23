@@ -17,3 +17,6 @@ void divide(int val1, int val2){
 void show(){
   print("Hii");
 }
+void conflict(){
+  print("Conflict");
+}
