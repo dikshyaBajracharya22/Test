@@ -20,3 +20,7 @@ void show(){
 void conflict(){
   print("Conflict");
 }
+void login(){
+  print("LogingIn--");
+  print("Login Completed");
+}
